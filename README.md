@@ -1,0 +1,1 @@
+A command line checkbook application that allows users to track their finacnes with a command line interface.
