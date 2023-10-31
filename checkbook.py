@@ -69,7 +69,7 @@ while loop == True:
                 
     elif choice == '4':
         loop = False
-    
+        print('Exiting')
     else:
         print('Invalid Choice')
     
