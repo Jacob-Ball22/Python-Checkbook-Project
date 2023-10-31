@@ -1,0 +1,16 @@
+
+Transaction: $50.00
+New Balance: $335.00
+2023-10-31 11:13:34.359572
+
+Transaction: -$25.00
+New Balance: $260.00
+2023-10-31 11:13:34.359572
+
+Transaction: -$200.00
+New Balance: $85.00
+2023-10-31 11:13:34.359572
+
+Transaction: -$20.00
+New Balance: $65.00
+2023-10-31 11:14:19.181118
